@@ -1,0 +1,3 @@
+Conflict demo dosyasi
+Paylasilan satir: Beyzanur frontend akisina gore bu satiri guncelledi.
+Durum: Conflict B review asamasinda.

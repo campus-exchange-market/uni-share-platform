@@ -1,0 +1,3 @@
+Conflict demo dosyasi
+Paylasilan satir: Bu satir merge conflict gostermek icin bilerek degistirilecek.
+Durum: Henuz cozulmedi.
