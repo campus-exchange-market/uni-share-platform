@@ -1,0 +1,7 @@
+Takim notlari
+
+- Merve: repository ve merge akisini kontrol eder.
+- Roba: issue ve board iliskisini takip eder.
+- Ilgin: backend veya servis akisinda demo degisikligi yapar.
+- Beyzanur: arayuz veya kullanim akisinda demo degisikligi yapar.
+- Israa: test ve review surecini kaydeder.

@@ -1,0 +1,3 @@
+Conflict demo dosyasi
+Paylasilan satir: Ilgin backend akisina gore bu satiri guncelledi.
+Durum: Conflict A merge edildi.

@@ -1,0 +1,3 @@
+Conflict demo dosyasi
+Paylasilan satir: Ilgin backend akisini ve Beyzanur frontend akisinin katkisini ayni satirda birlestirdi.
+Durum: Conflict cozuldu ve PR merge edildi.
