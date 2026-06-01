@@ -13,6 +13,7 @@ function sendNotification(userEmail, message) {
     userEmail,
     message,
     isRead: false,
+    isSeen: false,
     createdAt: new Date().toISOString()
   };
 
