@@ -14,6 +14,7 @@ function sendNotification(userEmail, message) {
     message,
     isRead: false,
     isSeen: false,
+    isPriority: true,
     createdAt: new Date().toISOString()
   };
 
